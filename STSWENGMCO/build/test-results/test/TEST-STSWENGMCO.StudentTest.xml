@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="STSWENGMCO.StudentTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-12-01T10:19:39" hostname="LAPTOP-LB6PN61P" time="0.104">
+  <properties/>
+  <testcase name="period_overlap()" classname="STSWENGMCO.StudentTest" time="0.053"/>
+  <testcase name="startTime_after_endTime()" classname="STSWENGMCO.StudentTest" time="0.031"/>
+  <testcase name="periods_beyond_duration_time()" classname="STSWENGMCO.StudentTest" time="0.008"/>
+  <testcase name="period_time_not_following_format()" classname="STSWENGMCO.StudentTest" time="0.004"/>
+  <testcase name="same_startTime_endTime()" classname="STSWENGMCO.StudentTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
